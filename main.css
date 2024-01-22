@@ -1,0 +1,17 @@
+.header{
+  width: 1619px;
+  height: 850px;
+  flex-shrink: 0;
+}
+
+.header{
+  background-image: url(./images/Rectangle\ 3.png);
+  margin: 0 auto;
+}
+.header__nav_logo{
+  border: 1px solid ;
+  width: 400px;
+  display: flex;
+ 
+  margin: 0 auto;
+}
